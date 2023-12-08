@@ -1,4 +1,4 @@
-# My Learning
+# My Learning ✓
 
 Documenting my progress in learning various concepts that mostly relate to the domain of Computer Science.
 
