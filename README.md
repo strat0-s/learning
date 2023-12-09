@@ -1,6 +1,6 @@
 # My Learning ✓
 
-Documenting my progress in learning various concepts that mostly relate to the domain of Computer Science.
+Tracking my progress in learning concepts and skills from various fields, mostly Computer Science, Digital Art, Video/Photo editing, Guitar/Music Theory etc. 
 
 ## Data Structures & Algorithms
 
