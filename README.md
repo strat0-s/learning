@@ -36,5 +36,8 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 | --------------------------------------------------------------------------------------------------- | -------- |
 | [Website: CTRLPaint](https://www.ctrlpaint.com/library/) |          |
 
+## Guitar
 
-
+| Resource                                                                                            | Progress |
+| --------------------------------------------------------------------------------------------------- | -------- |
+| [Youtube: Music Theory for Guitar](https://www.youtube.com/playlist?list=PLDNPXoSAAaRJ9CoWhCyxeqmKRKvZv0iu4) |          |
