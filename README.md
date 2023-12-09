@@ -23,3 +23,10 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 | Resource                                                                                            | Progress |
 | --------------------------------------------------------------------------------------------------- | -------- |
 | [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java/) |          |
+
+## Blender
+
+| Resource                                                                                            | Progress |
+| --------------------------------------------------------------------------------------------------- | -------- |
+| [Youtube: Blender Donut](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) |          |
+
