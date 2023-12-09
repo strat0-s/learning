@@ -9,6 +9,7 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)  |          |
 | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) |          |
 | [Book: Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf) |          |
+| [Data Structures](https://stepik.org/course/579/syllabus) |          |
 
 ## AI/ML
 
