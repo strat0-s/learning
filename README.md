@@ -30,3 +30,11 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 | --------------------------------------------------------------------------------------------------- | -------- |
 | [Youtube: Blender Donut](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) |          |
 
+## Digital Art
+
+| Resource                                                                                            | Progress |
+| --------------------------------------------------------------------------------------------------- | -------- |
+| [Website: CTRLPaint](https://www.ctrlpaint.com/library/) |          |
+
+
+
