@@ -1,15 +1,15 @@
 # My Learning ✓
 
-Tracking my progress in learning concepts and skills from various fields, mostly Computer Science, Digital Art, Video/Photo editing, Guitar/Music Theory etc. 
+Tracking my progress in learning concepts and skills from various fields, mostly Computer Science, Digital Art, Video/Photo editing, Guitar/Music Theory etc.
 
 ## Data Structures & Algorithms
 
-| Resource                                                               | Progress |
-| ---------------------------------------------------------------------- | -------- |
-| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)  |          |
-| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) |          |
+| Resource                                                                                                                    | Progress |
+| --------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)                                                       |          |
+| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)                                                      |          |
 | [Book: Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf) |          |
-| [Data Structures](https://stepik.org/course/579/syllabus) |          |
+| [Data Structures](https://stepik.org/course/579/syllabus)                                                                   |          |
 
 ## AI/ML
 
@@ -27,18 +27,24 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 
 ## Blender
 
-| Resource                                                                                            | Progress |
-| --------------------------------------------------------------------------------------------------- | -------- |
+| Resource                                                                                           | Progress |
+| -------------------------------------------------------------------------------------------------- | -------- |
 | [Youtube: Blender Donut](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) |          |
+
+## Unity
+
+| Resource                                                            | Progress |
+| ------------------------------------------------------------------- | -------- |
+| [Youtube: Code Monkey](https://www.youtube.com/watch?v=AmGSEH7QcDg) |          |
 
 ## Digital Art
 
-| Resource                                                                                            | Progress |
-| --------------------------------------------------------------------------------------------------- | -------- |
+| Resource                                                 | Progress |
+| -------------------------------------------------------- | -------- |
 | [Website: CTRLPaint](https://www.ctrlpaint.com/library/) |          |
 
 ## Guitar
 
-| Resource                                                                                            | Progress |
-| --------------------------------------------------------------------------------------------------- | -------- |
+| Resource                                                                                                     | Progress |
+| ------------------------------------------------------------------------------------------------------------ | -------- |
 | [Youtube: Music Theory for Guitar](https://www.youtube.com/playlist?list=PLDNPXoSAAaRJ9CoWhCyxeqmKRKvZv0iu4) |          |
