@@ -24,6 +24,13 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 | Resource                                                                                            | Progress |
 | --------------------------------------------------------------------------------------------------- | -------- |
 | [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java/) |          |
+| [Beginning C++ Programming](https://www.udemy.com/course/beginning-c-plus-plus-programming/)        |          |
+
+## Web Development
+
+| Resource                                                                                     | Progress |
+| -------------------------------------------------------------------------------------------- | -------- |
+| [Web Dev bootcamp 2023](https://www.udemy.com/course/the-complete-web-development-bootcamp/) |          |
 
 ## Blender
 
