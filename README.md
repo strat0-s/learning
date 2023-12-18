@@ -40,9 +40,10 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 
 ## Unity
 
-| Resource                                                            | Progress |
-| ------------------------------------------------------------------- | -------- |
-| [Youtube: Code Monkey](https://www.youtube.com/watch?v=AmGSEH7QcDg) |          |
+| Resource                                                                      | Progress |
+| ----------------------------------------------------------------------------- | -------- |
+| [Youtube: Code Monkey](https://www.youtube.com/watch?v=AmGSEH7QcDg)           |          |
+| [Unity: Junior Programmer](https://learn.unity.com/pathway/junior-programmer) |          |
 
 ## Digital Art
 
