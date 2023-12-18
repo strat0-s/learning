@@ -56,3 +56,9 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 | Resource                                                                                                     | Progress |
 | ------------------------------------------------------------------------------------------------------------ | -------- |
 | [Youtube: Music Theory for Guitar](https://www.youtube.com/playlist?list=PLDNPXoSAAaRJ9CoWhCyxeqmKRKvZv0iu4) |          |
+
+## Git
+
+| Resource                                                                                                     | Progress |
+| ------------------------------------------------------------------------------------------------------------ | -------- |
+| [Youtube: Programming with Mosh](https://www.youtube.com/watch?v=8JJ101D3knE) |          |
