@@ -61,4 +61,4 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 
 | Resource                                                                                                     | Progress |
 | ------------------------------------------------------------------------------------------------------------ | -------- |
-| [Youtube: Programming with Mosh](https://www.youtube.com/watch?v=8JJ101D3knE) |          |
+| [Youtube: Programming with Mosh](https://www.youtube.com/watch?v=8JJ101D3knE) |    ✓     |
