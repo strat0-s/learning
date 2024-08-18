@@ -70,4 +70,4 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 | ------------------------------------------------------------------------------------------------------------ |
 | [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview) |
 | [The Graphics Codex](https://graphicscodex.com/app/app.html?page=_rn_preface) |
-| [The Graphics Codex](https://graphicscodex.com/app/app.html?page=_rn_preface) |
+| [Cisco CCNA Packet Tracer Ultimate labs: CCNA 200-301 labs](https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-prep-labs/?couponCode=LEARNNOWPLANS) |
