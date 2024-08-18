@@ -62,3 +62,12 @@ Tracking my progress in learning concepts and skills from various fields, mostly
 | Resource                                                                                                     | Progress |
 | ------------------------------------------------------------------------------------------------------------ | -------- |
 | [Youtube: Programming with Mosh](https://www.youtube.com/watch?v=8JJ101D3knE) |    ✓     |
+
+
+## Resources for Later
+
+| Resource                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------ |
+| [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview) |
+| [The Graphics Codex](https://graphicscodex.com/app/app.html?page=_rn_preface) |
+| [The Graphics Codex](https://graphicscodex.com/app/app.html?page=_rn_preface) |
